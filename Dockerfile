@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM arm64v8/alpine:latest
 
 ARG BUILD_DATE
 ARG VCS_REF
